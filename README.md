@@ -15,7 +15,7 @@ The key components include:
 ## 🛠️ Technologies Used
 - Python  
 - NumPy, Pandas  
-- TensorFlow / PyTorch (depending on assignment requirements)  
+- TensorFlow  
 - Matplotlib, Seaborn (for visualizations)  
 
 ## 📊 Key Learnings
